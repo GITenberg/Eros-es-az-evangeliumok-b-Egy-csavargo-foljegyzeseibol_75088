@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '53082'
     url: http://www.gutenberg.org/2009/agents/53082
     wikipedia: https://hu.wikipedia.org/wiki/Sch%C3%B6pflin_Alad%C3%A1r
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bonsels, Waldemar
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9680
     wikipedia: https://de.wikipedia.org/wiki/Waldemar_Bonsels
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75088#Eros-es-az-evangeliumok-b-Egy-csavargo-foljegyzeseibol
 gutenberg_issued: '2025-01-12'
 gutenberg_type: Text
 identifiers:
